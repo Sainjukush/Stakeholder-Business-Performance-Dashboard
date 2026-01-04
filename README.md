@@ -3,9 +3,14 @@
 This repository presents an interactive Tableau dashboard designed to transform raw insurance stakeholder data into meaningful business insights. The dashboard consolidates premium collection, value creation, profitability, stakeholder demographics, and financial distribution into an accessible and dynamic visual analytics tool.
 
 ## Dataset Used
--<a href = "https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Finance%20record.xlsx%20-%20Finance%20Sheet.csv"> </a>
 
-![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Dashboard.png))
+- [Finance Record Dataset (CSV)](https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Finance%20record.xlsx%20-%20Finance%20Sheet.csv)
+
+
+## Dashboard Preview
+
+![Dashboard Preview](https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Dashboard.png)
+
 
 ---
 
