@@ -2,11 +2,14 @@
 
 This repository presents an interactive Tableau dashboard designed to transform raw insurance stakeholder data into meaningful business insights. The dashboard consolidates premium collection, value creation, profitability, stakeholder demographics, and financial distribution into an accessible and dynamic visual analytics tool.
 
-![Dashboard Preview](assets/dashboard-preview.png)
+## Dataset Used
+-<a href = "https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Finance%20record.xlsx%20-%20Finance%20Sheet.csv"> </a>
+
+![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/Sainjukush/Stakeholder-Business-Performance-Dashboard/blob/main/Dashboard.png))
 
 ---
 
-## 🚀 Project Objective
+##  Project Objective
 
 Insurance businesses interact with a diverse range of stakeholders—investors, brokers, customers, and distributors, to name a few. This dashboard was built to empower decision-makers with a holistic view of stakeholder performance, revealing trends, strengths, and opportunities at a glance.
 
@@ -14,7 +17,7 @@ Whether you're a business analyst, executive, or data enthusiast, this dashboard
 
 ---
 
-## 🔎 Key Questions Answered
+##  Key Questions Answered
 
 - **Which stakeholder segments create the most value for the business?**
 - **How do profitability and premium collection vary across cities, brokers, and tenure?**
@@ -25,7 +28,7 @@ Whether you're a business analyst, executive, or data enthusiast, this dashboard
 
 ---
 
-## 🌟 Features & Insights
+##  Features & Insights
 
 - **Comprehensive KPIs:** Top-level metrics for premium collected, average stakeholder age, total equity value, and highest value created.
 - **Dynamic Filters:** Instantly filter by premium type, city, date, profitability, gender, assets under management, or stakeholder group to focus your analysis.
@@ -38,7 +41,7 @@ Whether you're a business analyst, executive, or data enthusiast, this dashboard
 
 ---
 
-## 👤 Intended Audience
+##  Intended Audience
 
 - **Insurance Executives & Managers:** Quickly gauge performance and inform strategic initiatives.
 - **Business Analysts & Data Scientists:** Perform deep-dive explorations of operational metrics.
@@ -47,7 +50,7 @@ Whether you're a business analyst, executive, or data enthusiast, this dashboard
 
 ---
 
-## 🏆 Business Impact
+##  Business Impact
 
 This dashboard is not just a report—it's a business enablement tool. By bringing together multiple data dimensions in a single view, it empowers insurance companies to:
 - Realign sales and marketing strategies
@@ -57,14 +60,14 @@ This dashboard is not just a report—it's a business enablement tool. By bringi
 
 ---
 
-## 💾 Data Structure and Security
+##  Data Structure and Security
 
 Data covers fields such as stakeholder type, insurer, value created, shareholding patterns, city, brokers, premium types, profitability metrics, tenure, demographics, and asset management.  
 **Note:** The sample data provided is anonymized for sharing/public demonstration. When using the dashboard with real business data, ensure compliance with data privacy policies.
 
 ---
 
-## 📝 How to Use
+##  How to Use
 
 1. **Clone** or download this repository.
 2. Open `Dashboard.twbx` with Tableau Desktop or Tableau Public.
@@ -74,7 +77,7 @@ Data covers fields such as stakeholder type, insurer, value created, shareholdin
 
 ---
 
-## 🧩 Customization
+## Customization
 
 - Add new metrics or demographic filters per your business requirements.
 - Update data in `data/` for fresh analyses.
@@ -82,6 +85,6 @@ Data covers fields such as stakeholder type, insurer, value created, shareholdin
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
