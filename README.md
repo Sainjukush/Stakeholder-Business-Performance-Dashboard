@@ -71,25 +71,3 @@ Data covers fields such as stakeholder type, insurer, value created, shareholdin
 **Note:** The sample data provided is anonymized for sharing/public demonstration. When using the dashboard with real business data, ensure compliance with data privacy policies.
 
 ---
-
-##  How to Use
-
-1. **Clone** or download this repository.
-2. Open `Dashboard.twbx` with Tableau Desktop or Tableau Public.
-3. Optionally replace `data/stakeholder_sample.csv` with your actual data (maintaining column structure).
-4. Explore, filter, and export insights as needed.
-5. Screenshot (`assets/dashboard-preview.png`) provided for quick preview and readme illustration.
-
----
-
-## Customization
-
-- Add new metrics or demographic filters per your business requirements.
-- Update data in `data/` for fresh analyses.
-- Adapt visual themes in Tableau for alignment with your organization's style guide.
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
